@@ -42,35 +42,35 @@ href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://ra
 <img src="https://user-images.githubusercontent.com/94888819/179422108-0108ecc4-96d4-4a9f-93d2-f4f2ea98688e.png" alt="stream" width="40" height="50"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a
 href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
-## `Connect with me:`
-<p align="left">
-<a href="https://www.linkedin.com/in/chittaranjansahoo1" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="chittaranjan" height="50" width="50" /></a>
-<a href="https://medium.com/@chittaranjansahoo1" target="blank"><img align="center" src="<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="Medium Icon" width="50" height="50"></a>
-<a href="mailto:chittaranjansahoo1600@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="50" width="50" /></a>
-</p>
 
-![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 ## `Read and catch up on content:`
 
 
 
+## `Connect with me:`
+<p align="left">
+<a href="https://www.linkedin.com/in/chittaranjansahoo1" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="chittaranjan" height="50" width="50" /></a>
+<a href="https://medium.com/@chittaranjansahoo1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="Medium Icon" width="48" height="48"></a>
+<a href="mailto:chittaranjansahoo1600@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="50" width="45" /></a>
+</p>
 
-## `📈 GitHub Activity Graph:`
+![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
+
+
+
+
 
 
 
 ## `Github Status:` 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderchitta&label=Profile%20views&color=0e75b6&style=circle" alt="chittaranjan" width="16%" /> </p>
-<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchitta&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="chittaranjan" />
-</p>
-<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=coderchitta&show_icons=true&theme=tokyonight"/> </p>
-<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=coderchitta&theme=neon-palenight" width="50%"  alt="streak"> </p>
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderchitta&show_icons=true&theme=discord" alt="chittaranjan" />
-</a> </p>
+<p align="center"><a href="https://github.com/coderchitta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchitta&langs_count=10&title_color=f97316&text_color=000000&icon_color=6366f1&bg_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" /></a></p>
+
+<p align="center"><a href="http://www.github.com/coderchitta"><img src="https://github-readme-stats.vercel.app/api?username=coderchitta&show_icons=true&locale=en" alt="chitta's GitHub Stats" /></a>
+<a href="http://www.github.com/coderchitta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderchitta&show_icons=true&locale=en" /></a></p>
+
+<p align="center"><a href="http://www.github.com/coderchitta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=coderchitta&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&custom_title=GitHub%20Commits%20Graph"
+alt="GitHub Commits Graph" /></a></p>
 
 <div style="align:center;
             display:fill;
