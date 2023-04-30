@@ -46,14 +46,14 @@ I'm Chitta Ranjan Sahoo, a passionate Data Science enthusiast who loves learning
 
 ### GitHub Activity:
 
-![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=)
+![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Coder-Chitta)
 
 ### GitHub Stats:
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub username]&show_icons=true&count_private=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Coder-Chitta&show_icons=true&count_private=true)
 
 ### GitHub Trophies:
 
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=[Your GitHub username])
+![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=https://github.com/Coder-Chitta)
 
 Thank you for taking the time to read this!
