@@ -64,12 +64,12 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 
 ## `Github Status:` 
-<p align="center"><a href="https://github.com/coderchitta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchitta&langs_count=10&title_color=f97316&text_color=000000&icon_color=6366f1&bg_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" /></a></p>
+<p align="center"><a href="https://github.com/Coder-Chitta"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Chitta&langs_count=10&title_color=f97316&text_color=000000&icon_color=6366f1&bg_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" /></a></p>
 
-<p align="center"><a href="http://www.github.com/coderchitta"><img src="https://github-readme-stats.vercel.app/api?username=coderchitta&show_icons=true&locale=en" alt="chitta's GitHub Stats" /></a>
-<a href="http://www.github.com/coderchitta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderchitta&show_icons=true&locale=en" /></a></p>
+<p align="center"><a href="http://www.github.com/Coder-Chitta"><img src="https://github-readme-stats.vercel.app/api?username=Coder-Chitta&show_icons=true&locale=en" alt="chitta's GitHub Stats" /></a>
+<a href="http://www.github.com/Coder-Chitta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Chitta&show_icons=true&locale=en" /></a></p>
 
-<p align="center"><a href="http://www.github.com/coderchitta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=coderchitta&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&custom_title=GitHub%20Commits%20Graph"
+<p align="center"><a href="http://www.github.com/Coder-Chitta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Coder-Chitta&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&custom_title=GitHub%20Commits%20Graph"
 alt="GitHub Commits Graph" /></a></p>
 
 <div style="align:center;
