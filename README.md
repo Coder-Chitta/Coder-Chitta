@@ -18,6 +18,9 @@
 - 📫 You can reach me on my email id **chittaranjansahoo1600@gmail.com**
 
 ## `Projects:`
+### [Bank Loan Analysis]
+### [Movies Data Analysis]
+### [Uber Data Analysis]
 ### [Amazon Reviews Sentiment Analysis]
 ### [Book Recommendor System]
 ### [Reliance Stock Price Prediction] 
