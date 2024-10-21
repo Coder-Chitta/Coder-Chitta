@@ -5,7 +5,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as an Intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="chittaranjan" height="20" width="60" /></a>
+- 🔭 I’m currently working as an Data Asspociate at <a href="https://www.generalmills.com/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.3WTpCVs17XPFL9XOtxs4JAHaD3?w=1200&h=627&rs=1&pid=ImgDetMain" alt="chittaranjan" height="60" width="150" /></a>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
