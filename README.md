@@ -7,17 +7,16 @@
 
 - 🔭 I’m currently working as an Data Asspociate at <a href="https://www.generalmills.com/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.3WTpCVs17XPFL9XOtxs4JAHaD3?w=1200&h=627&rs=1&pid=ImgDetMain" alt="chittaranjan" height="60" width="150" /></a>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 👯 I’m looking to collaborate on **on all topics related to Data Analytics, Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
+- 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
 
-- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
-
-- 🌱 I’m currently mastering **Python, Machine Learning, Tableau,  Power Bi, R, MySQL, Advanced Excel and Deep learning**
+- 🌱 I’m currently mastering **Python, Machine Learning, Tableau,  Power Bi, R, MySQL and Advanced Excel**
 
 - 📫 You can reach me on my email id **chittaranjansahoo1600@gmail.com**
 
 ## `Projects:`
+### [Non-Working Dollar Analysis]
 ### [Bank Loan Analysis]
 ### [Movies Data Analysis]
 ### [Uber Data Analysis]
