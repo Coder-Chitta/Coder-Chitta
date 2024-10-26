@@ -20,9 +20,9 @@
 - [Non-Working Dollar Analysis](https://github.com/Coder-Chitta/Non-Working-Dollar-Analysis)
 - [Bank Loan Analysis](https://github.com/Coder-Chitta/Bank-Loan-Analysis)
 - [Movies Data Analysis](https://github.com/Coder-Chitta/Movies-Data-Analysis-My-SQL-SQL-)
-- [Uber Data Analysis](https://github.com/uber-data-analysis)
-- [Amazon Reviews Sentiment Analysis](https://github.com/amazon-reviews-sentiment-analysis)
-- [Reliance Stock Price Prediction](https://github.com/reliance-stock-price-prediction)
+- [Uber Data Analysis](https://github.com/Coder-Chitta/Uber-Data-Analysis)
+- [Amazon Reviews Sentiment Analysis](https://github.com/Coder-Chitta/Amazon-Sentiment-Analysis)
+- [Reliance Stock Price Prediction](https://github.com/Coder-Chitta/Reliance-Stock-Price-Forecast)
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
